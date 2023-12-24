@@ -1,3 +1,6 @@
+#root,body,header{
+  background: blueviolet;
+}
 .App {
   text-align: center;
 }
@@ -28,4 +31,8 @@
 
 .small {
   font-size: 0.75rem;
+}
+h1{
+  color: springgreen;
+  font-family: monospace;
 }
