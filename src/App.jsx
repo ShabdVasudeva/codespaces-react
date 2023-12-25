@@ -11,7 +11,7 @@ function App() {
         <main>
           <h1>Application ports</h1>
           <div className='division2'>
-            <h3>Samsung Ports</h3>
+            <h3>Samsung Apps</h3>
             <p>Gallery --> <a href="https://www.pling.com/p/2102872/">download</a></p>
             <p>Keyboard --> <a href="https://www.pling.com/p/2112503/">download</a></p>
             <p>Home Launcher --> <a href="https://www.pling.com/p/2033463/">download</a></p>
