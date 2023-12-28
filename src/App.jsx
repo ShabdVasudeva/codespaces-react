@@ -10,6 +10,10 @@ function App() {
         </header>
         <main>
           <h1>Application ports</h1>
+          <div className="division2">
+            <h3>Motorola Apps</h3>
+            <p>Calendar --> <a href="https://www.pling.com/p/2027414/">download</a></p>
+          </div>
           <div className='division2'>
             <h3>Samsung Apps</h3>
             <p>Gallery --> <a href="https://www.pling.com/p/2102872/">download</a></p>
