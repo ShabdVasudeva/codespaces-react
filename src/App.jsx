@@ -11,6 +11,10 @@ function App() {
         <main>
           <h1>Application ports</h1>
           <div className="division2">
+            <h3>O.P widget By A.P.W</h3>
+            <p>widget --> <a href="https://www.pling.com/p/2118306/">download</a></p>
+          </div>
+          <div className="division2">
             <h3>Motorola Apps</h3>
             <p>Calendar --> <a href="https://www.pling.com/p/2027414/">download</a></p>
           </div>
@@ -49,7 +53,7 @@ function App() {
           </div>
         </main>
        <nav>
-          <p>&copy; 2023 A.P.W. All rights reserved.</p>
+          <p>&copy; 2024 A.P.W. All rights reserved.</p>
        </nav>
       </div>
   );
